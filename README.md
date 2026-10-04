@@ -3,8 +3,6 @@
 **Controlled access for AI agents.**
 
 AgentLink is a proposed agent-access gateway for digital systems and connected equipment. Equipment owners or installers define who may connect, what each agent may do, which actions require human approval, and when access ends.
-<img src="https://chatgpt.com/s/m_6ac2e3f60b18819195136dcf9fd9cf40"/>
-![AgentLink concept: Spencer assists a factory technician through an owner-controlled gateway]([docs/assets/agentlink-spencer-concept.png](https://chatgpt.com/s/m_6ac2e3f60b18819195136dcf9fd9cf40))
 
 ## Project status
 
